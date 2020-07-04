@@ -1,5 +1,5 @@
 # Sudoku
-This is a randomly generates sudoku boards using backtracking algorithm.
+This game randomly generates sudoku boards using backtracking algorithm.
 
 ![Game](game-play.png)
 Format: ![Alt Text](url)
